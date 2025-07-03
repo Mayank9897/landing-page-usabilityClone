@@ -1,2 +1,1 @@
-# landing-page-usabilityClone
-Beginner Project
+Landing Page Clone - UsabilityHub
