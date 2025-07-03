@@ -1,0 +1,28 @@
+Project: Landing Page Clone - UsabilityHub
+This project is a responsive landing page clone built using HTML and CSS. It replicates the layout and design of the UsabilityHub website to help me practice modern front-end web development skills.
+
+Features-
+Top banner for announcements
+Navigation bar with logo and links
+Hero section with call-to-action
+Trusted companies showcase
+Features section with icons and descriptions
+Visual cards highlighting use cases
+Example section with different user scenarios
+Call-to-action section to engage users
+Footer with helpful links
+Fully responsive design using Flexbox and media queries
+
+Tech Stack-
+HTML5
+CSS3
+Font Awesome (for icons)
+
+Purpose-
+This project was created as part of my beginner web development journey to strengthen my understanding of HTML structure, CSS styling, layout techniques, and responsive design.
+What I Learned-
+Writing semantic and structured HTML
+Styling components with reusable CSS classes
+Using Flexbox for layout and alignment
+Creating responsive layouts for different screen sizes
+Organizing a complete multi-section web page
